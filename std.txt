@@ -1,0 +1,3 @@
+{"Name":"saw","Address":"monywa","Program":"C#","Year":"Third Year","Fee":"100000"}
+{"Name":"saw kyawt kay khaing","Address":"Yangon","Program":"C#","Year":"First Year","Fee":"100000"}
+{"Name":"saw","Address":"monywa","Program":"C#","Year":"Second Year","Fee":"100000"}

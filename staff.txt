@@ -1,0 +1,6 @@
+{"Name":"saw kyawt","Address":"monywa","School":"UCS Monywa","Pay":"100000"}
+{"Name":"saw","Address":"Yangon","School":"UCSY","Pay":"150000"}
+{"Name":"Kyawt Kyawt Lwin","Address":"Mandalay","School":"CU Mandalay","Pay":"200000"}
+{"Name":"saw kyawt kay khaing","Address":"monywa","School":"UCS Monywa","Pay":"150000"}
+{"Name":"saw kyawt","Address":"monywa","School":"UCS Monywa","Pay":"200000"}
+{"Name":"saw kyawt kay khaing","Address":"Mandalay","School":"UCSY","Pay":"150000"}
